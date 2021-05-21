@@ -1,5 +1,7 @@
 # piggy-page-render
 
+搭建器渲染SDK npm包名：piggy-page-render
+
 ## Getting Started
 
 Install dependencies,
